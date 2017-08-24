@@ -22,6 +22,8 @@
         "contextMenus",
         "tabs",
         "storage",
+        "webRequest",
+        "webRequestBlocking",
         "activeTab",
         "<all_urls>"
     ],
